@@ -1,3 +1,5 @@
+import math
+
 def bmi_calc():
   name = input("please enter your name here")
   print("Name: " + name)
